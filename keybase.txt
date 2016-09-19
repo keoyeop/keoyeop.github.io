@@ -1,0 +1,74 @@
+==================================================================
+https://keybase.io/ingyeo
+--------------------------------------------------------------------
+
+I hereby claim:
+
+  * I am an admin of https://keoyeop.github.io
+  * I am ingyeo (https://keybase.io/ingyeo) on keybase.
+  * I have a public key with fingerprint C97F F428 37D4 756B C627  6CA8 F588 A574 C417 1631
+
+To do so, I am signing this object:
+
+{
+    "body": {
+        "key": {
+            "eldest_kid": "01015673d7a9b64648eeb6b65797f55e8cef9b149d9667cf707708cad47e8a9ddca00a",
+            "fingerprint": "c97ff42837d4756bc6276ca8f588a574c4171631",
+            "host": "keybase.io",
+            "key_id": "f588a574c4171631",
+            "kid": "01015673d7a9b64648eeb6b65797f55e8cef9b149d9667cf707708cad47e8a9ddca00a",
+            "uid": "db843d3e111b0b0cb5e738d7dc080219",
+            "username": "ingyeo"
+        },
+        "service": {
+            "hostname": "keoyeop.github.io",
+            "protocol": "https:"
+        },
+        "type": "web_service_binding",
+        "version": 1
+    },
+    "ctime": 1474327487,
+    "expire_in": 157680000,
+    "prev": "16867f25cdbc494ac597e15124ddb846cea969c34b246a66bf9dd6b00875565a",
+    "seqno": 20,
+    "tag": "signature"
+}
+
+which yields the signature:
+
+-----BEGIN PGP MESSAGE-----
+Version: Keybase OpenPGP v2.0.56
+Comment: https://keybase.io/crypto
+
+yMNFAnicrZJ/UBRlGMc5krM4DSaaHCWUFqcb82J273bfd/f4MedIwxBYdF2CM+jN
+/njvWA53j7sFD08qhVAjwrRUpLwUMDBkYHQcaFJAaHJidBpyGGZkRMAygRJokh9W
+tkv2X3/2/vPO+zzf7+d9nmeevpVPhEXqfj/QqPSteo7Q9ffUFYfl3PZ3BTFOFkox
+axDzoKULFQrIrzg9ooBZMZzACQpAiwBZhgMkIGmEOMABCjLQRVGI5pGL4QiSERgA
+IO+COIQ4zbMCCRHNMoLAszjOYibMJUpu5PP6RElRsbzqdpFm2gJVIQU4Hpgh4Fna
+RdE0S0GSJwlIAAuhGvNlv+ZQi+NYP0oUZTWmPpxL5f2H/n+uu3gJJ3A0aREsiCAI
+DudwnqMQtNACFHicxs0Eown9yCexO5GqVlstRTJWZsLUWInII22sWh+P8x4kq3lv
+oltU8ou5f1ry+mRF5uVCNZ2vKF6/VbMrpV5NvwtxzsckJydKgspXHSXI5xdlCbMS
+qpJXRA1NkJC0mCFJQxOGAl7Rh5yipqAgoHH1aP+gEhVJABpAl5niBY4nGZLlKQYi
+giLMpKD1CnjEMoDhLSRnJgELAOdSZwI4HKchRQFKm4wfFUkyZjWrUIV1q0y/6JZY
+pdiHsLIrPXnLwnSRYfqIcG3HwiKfiv538zwfRT0qmF1W+caaoddHsCbr0YmWLstf
+Na9kS519FZn60Ur7jxeqyLz7BufsvuCkKfHs91KFrQ4eb91i0IcKQr3m34KLaT97
+Z3K33P3MUBM9P79uBeYTkw9cDnSt7pxNGg9KZJy7daB9xh5eW16Jb1v19taNe04P
+S3OTCy3p/aurNm1az5Y5poca9sae7MtJOBGjvxwQ0rOM7+EbDxoH/iiNZrpfQMas
+FIPjzcacqErTMw5reIlRgmLUJ+3BPyu+bme3p8dfNQ6UJxSFInZuiAPZr710cfcv
+WYenFjPtEamD9Yv25EDGerfji2nbdufKR3FTKe923HGMhhqyRvqzuzJjH1Zhiy1y
++5qTgczlJ4xnm5K8GbPLd1zPGCyCeKjsu6mxuKRnL94YqG/rIVrTTUm62mZLy8C5
+ffbjE2eeNHzaZntL35SGrY1XGnrPx6R40vZe6D//9Fjq4XfOzRpSD5a2x9/cum2m
+9dTYveHxguGaav+HPSOdv47W5R0CTHLCqZ77vaz35qHq/VZjZPJYoHrw/cL87CSb
+rmNo10LM3Ac3infYOsDVxTvXA/wkxm+Yf3H/3Xs59bmX9lhrZ+xHCtZec1TpvpE7
+Ps8vv/Lwp+bY5o+v6bsuzZ2Zaqx6uWU81ImvOx3fmPbVgwmi6PkfbLmvHrn95UL1
+is3TAnHrVndK+oNjm7/d3d0G/wYNksIY
+=3Sf4
+-----END PGP MESSAGE-----
+
+And finally, I am proving ownership of this host by posting or
+appending to this document.
+
+View my publicly-auditable identity here: https://keybase.io/ingyeo
+
+==================================================================
